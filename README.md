@@ -9,4 +9,4 @@
   <img src="https://artur-pf.github.io/artur-pf/images/v16_17.png" height="94" /> 
 </p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=artur-pf&show_icons=true&theme=graywhite )
+![GitHub stats](https://github-readme-stats-red-kappa.vercel.app/api?username=artur-pf&show_icons=true&theme=graywhite )
