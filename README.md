@@ -1,16 +1,12 @@
-### Hi there 👋
+<p float="left">
+  <img src="https://artur-pf.github.io/artur-pf/images/v16_13.png" width ="585" height="94" />
+  <a href="https://github.com/artur-pf">
+         <img src="https://artur-pf.github.io/artur-pf/images/v16_19.png"  height="94"/>
+      </a>
+</p>
+<p float="left">
+  <img src="https://artur-pf.github.io/artur-pf/images/v16_15.png" height="94" />
+  <img src="https://artur-pf.github.io/artur-pf/images/v16_17.png" height="94" /> 
+</p>
 
-<!--
-**artur-pf/artur-pf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=artur-pf&show_icons=true&theme=graywhite )
